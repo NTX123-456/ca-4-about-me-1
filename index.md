@@ -1,37 +1,128 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="C:\Users\bayge\Downloads\wk03-ca-flex-skeleton-2 (1)\styles.css" rel="stylesheet" type="text/css" />
+    
+    
 
-You can use the [editor on GitHub](https://github.com/NTX123-456/ca-4-about-me-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    
+  </head>
+  <body>
+    <header>
+    <img src="https://i.imgur.com/EuoHCbF.png" style="width:100%;">
+    <script src="script.js"></script>
+    </header>
+    <article class="box1">
+      <nav>
+      <article style = "font-family:'Courier'">My Hobbies</article>
+      </nav>
+    </article>
+  
+    <article class="box3">
+      <nav>
+        <article style = "font-family:'Courier'">My skills</article>
+      </nav>
+    </article>
+      
+      
+    </article>
+    
+    <article class="myhistory">
+     <article class="box">
+       <nav>
+        <article style = "font-family:'Courier'">My history</article>
+      </nav>
+    </article>
+  </article>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <article class="box4">
+      <nav>
+        <article style = "font-family:'Courier'">My future job</article>
+    </nav>
+    </article>
+    
 
-### Markdown
+ 
+ <article class="container">
+ <form action="/action_page.php"><br><br><br><br>
+    
+    <label for="fname">enter your name:</label><br><br><br>
+    <input type="text" id="fname" name="fname" required><br><br><br>
+    <label for="lname">enter your hobby:</label><br><br><br>
+    <input type="text" id="lname" name="name" required><br><br><br>
+    <input type="submit" value="Submit">
+  </form> 
+ </article> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<article class="container">
+  <form action="/action_page.php"><br><br><br><br>
+     <label for="fname">enter your name:</label><br><br><br>
+     <input type="text" id="fname" name="name" required><br><br><br>
+     <label for="lname">enter your hobby:</label><br><br><br>
+     <input type="text" id="lname" name="name" required><br><br><br>
+     <input type="submit" value="Submit">
+   </form> 
+   
+  </article> 
+ 
+ 
+ <article class="skill">
+  
+  <form action="/action_page.php"><br><br><br><br>
+   <label for="fname">enter your name:</label><br><br><br>
+   <input type="text" id="fname" name="name" required><br><br><br>
+   <label for="lname">enter your skill:</label><br><br><br>
+   <input type="text" id="lname" name="name" required><br><br><br>
+   <input type="submit" value="Submit">
+ </form>  
+ </article> 
+ 
+ <article class="container">
+  <form action="/action_page.php"><br><br><br><br>
+    <label for="fname">enter your name:</label><br><br><br>
+    <input type="text" id="fname" name="name" required><br><br><br>
+    <label for="lname">enter your skill:</label><br><br><br>
+    <input type="text" id="lname" name="name" required><br><br><br>
+    <input type="submit" value="Submit">
+  </form>  
+</article>
 
-```markdown
-Syntax highlighted code block
+<article class="container">
+  <form action="/action_page.php"><br><br><br><br>
+    <label for="fname">enter your name:</label><br><br><br>
+    <input type="text" id="fname" name="name" required><br><br><br>
+    <label for="lname">enter your history:</label><br><br><br>
+    <input type="text" id="lname" name="name" required><br><br><br>
+    <input type="submit" value="Submit">
+  </form>  
+</article>
 
-# Header 1
-## Header 2
-### Header 3
+<article class="container">
+  <form action="/action_page.php"><br><br><br><br>
+    <label for="fname">enter your name:</label><br><br><br>
+    <input type="text" id="fname" name="name" required><br><br><br>
+    <label for="lname">enter your history:</label><br><br><br>
+    <input type="text" id="lname" name="name" required><br><br><br>
+    <input type="submit" value="Submit">
+  </form>  
+</article>
 
-- Bulleted
-- List
+<article class="container">
+  <form action="/action_page.php"><br><br><br><br>
+    <label for="fname">enter your name:</label><br><br><br>
+    <input type="text" id="fname" name="name" required><br><br><br>
+    <label for="lname">enter your future job:</label><br><br><br>
+    <input type="text" id="lname" name="name" required><br><br><br>
+    <input type="submit" value="Submit">
+  </form>  
+</article>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NTX123-456/ca-4-about-me-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  </body>
+  <footer>
+  <p style="font-family: Georgia">This is the first page</p>
+  </footer>
+</html>
